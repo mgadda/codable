@@ -3,6 +3,15 @@
 This package demonstrates how to serialize a swift struct to a file. There's
 just one problem, it doesn't work.
 
+Don't know what Codable or NSCoding are yet? Read about them here:
+
+* [Encoding and Decoding Custom Types](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types) in Swift 4
+* [NSCoding](https://developer.apple.com/documentation/foundation/nscoding)
+
+## Prerequisites 
+
+You must be running Xcode 9, Swift 4, and macOS Sierra.
+
 ## Steps to reproduce
 
 1. git clone https://github.com/mgadda/codable.git
